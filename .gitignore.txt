@@ -1,0 +1,4 @@
+.github
+bikeshare
+.gitignore
+README
