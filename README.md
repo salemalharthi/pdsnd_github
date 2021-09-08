@@ -2,9 +2,13 @@
 
 ### Date created
 Include the date you created this project and README file.
+<<<<<<< HEAD
 Update  1
 update 2
 change 2 
+=======
+change 5
+>>>>>>> refactoring
 ### Project Title
 Replace the Project Title
 
